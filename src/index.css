@@ -1,0 +1,16 @@
+/* Set the background image */
+body {
+    background-image: url("https://img.freepik.com/free-photo/mountains-scape_53876-16353.jpg?t=st=1739270037~exp=1739273637~hmac=af833e0abc773f48826ca3e071685bcbfde965603d1aafb7c8353fa49a8a609a&w=1380");
+    background-size: cover;  /* Cover entire screen */
+    background-position: center;  /* Center the image */
+    background-attachment: fixed; /* Keep the image fixed on scroll */
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
